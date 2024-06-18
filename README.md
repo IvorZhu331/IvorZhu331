@@ -2,7 +2,7 @@
 
 
 ## About 
-NYU Courant Rising Junior, Major in Computer Science & Mathematics
+NYU Courant Junior, Major in Computer Science & Mathematics
 
 ## Skills
 
