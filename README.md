@@ -3,7 +3,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvorZhu331&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About 
-NYU Courant Junior, Major in Computer Science & Mathematics
+NYU Courant Computer Science Junior, Minor in Math
 
 ## Skills
 
