@@ -1,6 +1,6 @@
 # Ivor Zhu <a href="https://www.linkedin.com/in/ivor-zhu-547079293/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="linkedin"></a>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvorZhu331)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvorZhu331&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About 
 NYU Courant Junior, Major in Computer Science & Mathematics
